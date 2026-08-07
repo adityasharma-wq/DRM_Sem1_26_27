@@ -14,13 +14,14 @@ Each lab lives in its own notebook file:
 
 ```
 .
-├── Lab01_<Topic>/
+├── Lab01_<Know your Python>/
 │   ├── Lab01_Example.ipynb      # solved, walk-through notebook (read this first)
 │   ├── Lab01_Practice.ipynb     # practice question — not graded
 │   ├── data/                    # datasets used by the notebooks
 │   └── README.md                # what this lab covers + reading
-├── Lab02_<Topic>/
-│   └── ...
+├── Lab02_<Data and Descriptive Statistics>/
+│   └──Lab02_Example.ipynb      # solved, walk-through notebook (read this first)
+│   ├── Lab02_Practice.ipynb     # practice question — not graded
 ├── datasets/                    # shared datasets used across labs
 └── README.md                    # this file
 ```
