@@ -143,11 +143,11 @@ notebooks and do not open pull requests on this repository.
 
 | Component | Weight |
 |---|---|
-| Correctness of results | <40%> |
-| Code quality & comments | <30%> |
-| Interpretation / written answers | <30%> |
+| Correctness of results | `40%` |
+| Code quality & comments | `30%` |
+| Interpretation / written answers | `30%` |
 
-Submissions close at the deadline; Nalanda will accept late uploads with a 5% deduction from the Marks secured. Genuine medical or institute-
+Submissions close at the deadline; Nalanda will accept late uploads with a `5% deduction` from the Marks secured. Genuine medical or institute-
 approved absences must be reported before the deadline.
 
 ---
